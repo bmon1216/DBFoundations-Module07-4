@@ -38,7 +38,8 @@ While you do not need to use Begin and End with scalar functions, you do need to
 Similar to inline functions, multi-statement functions are a type of table-valued functions. However, unlike inline functions, multi-statement functions only return a table of data after some additional processing. This processing can include defining column names and datatypes after “Returns” and before “As”. See an example below in figure 1. 
 
 You can also include multiple Select statements in multi-statement functions, hence the name!
-image
+
+![image](https://user-images.githubusercontent.com/79387131/109743329-5c0aa380-7b85-11eb-92d4-4b706525ec88.png)
 
 *Figure 1. example of multi-statement function*
 
@@ -48,4 +49,4 @@ image
 Knowing how to use SQL server to retrieve and edit data is great, but knowing how to use it to analyze and report on data will open new doors for you and your company. Use UDFs to return and analyze key performance indicators for your company through scalar functions (which return single datapoints), inline functions (which return simple tables), or multi-statement functions (which allow for more complex processing to return tables).
 
 
-![image](https://user-images.githubusercontent.com/79387131/109743329-5c0aa380-7b85-11eb-92d4-4b706525ec88.png)
+
