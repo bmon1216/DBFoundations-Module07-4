@@ -1,8 +1,8 @@
-*Megan Rahrig
-2/27/21
-IT Foundations of Databases and SQL Programming
-Assignment 07
-https://github.com/mrahrig/ITFnd100-Mod07*
+*Megan Rahrig*
+*2/27/21*
+*IT Foundations of Databases and SQL Programming*
+*Assignment 07*
+
  
 # SQL Functions
 ## Introduction
