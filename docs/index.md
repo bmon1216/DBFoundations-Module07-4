@@ -18,11 +18,12 @@ UDF stands for “user defined function”. Like the name implies, UDFs are cust
 UDFs are beneficial for a variety of reasons. Not only do they allow a user to create a custom function that can be saved and reused, but they can also be used for reporting and ETL processing.
 
 ### Reporting
-UDFs allow you to create functions that return readable, usable data that you and your team can analyze. One example is using a custom function to return a table that compares data month over month along with the percentage difference (perhaps as a KPI) using a Lag function and a mathematical function. (https://www.youtube.com/watch?v=BWw5YUv49c4&list=PLfycUyp06LG_8aYt19coVTwUDr2CaaSY5&index=3, 2021) (External site)
+UDFs allow you to create functions that return readable, usable data that you and your team can analyze. One example is using a custom function to return a table that compares data month over month along with the percentage difference (perhaps as a KPI) using a Lag function and a mathematical function.  
+((https://www.youtube.com/watch?v=BWw5YUv49c4&list=PLfycUyp06LG_8aYt19coVTwUDr2CaaSY5&index=3), 2021) (External site)
 
 ### ETL Processing
-You can create a function to edit data in tables. For example, you could trim or parse data in a table to make it easier to read or use.
-(https://www.youtube.com/watch?v=URSjRbN1rCQ&list=PLfycUyp06LG_8aYt19coVTwUDr2CaaSY5&index=4, 2021) (External site)
+You can create a function to edit data in tables. For example, you could trim or parse data in a table to make it easier to read or use.  
+((https://www.youtube.com/watch?v=URSjRbN1rCQ&list=PLfycUyp06LG_8aYt19coVTwUDr2CaaSY5&index=4), 2021) (External site)
 
 ## The Differences Between Scalar, Inline, and Multi-Statement Functions
 
@@ -41,9 +42,9 @@ You can also include multiple Select statements in multi-statement functions, he
 
 ![Figure1](./image.png)  
 
-*Figure 1. example of multi-statement function*
+*Figure 1. example of multi-statement function*  
 
-(https://www.wiseowl.co.uk/blog/s347/multi-statement.htm, 2021) (External site)
+((https://www.wiseowl.co.uk/blog/s347/multi-statement.htm), 2021) (External site)
 
 ## Conclusion
 Knowing how to use SQL server to retrieve and edit data is great, but knowing how to use it to analyze and report on data will open new doors for you and your company. Use UDFs to return and analyze key performance indicators for your company through scalar functions (which return single datapoints), inline functions (which return simple tables), or multi-statement functions (which allow for more complex processing to return tables).
