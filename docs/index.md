@@ -2,7 +2,7 @@
 2/27/21
 IT Foundations of Databases and SQL Programming
 Assignment 07
-https://github.com/mrahrig/ITFnd100-Mod07
+https://github.com/mrahrig/ITFnd100-Mod07*
  
 # SQL Functions
 ## Introduction
@@ -40,7 +40,7 @@ Similar to inline functions, multi-statement functions are a type of table-value
 You can also include multiple Select statements in multi-statement functions, hence the name!
 image
 
-*Figure 1. example of multi-statement function
+*Figure 1. example of multi-statement function*
 
 (https://www.wiseowl.co.uk/blog/s347/multi-statement.htm, 2021) (External site)
 
