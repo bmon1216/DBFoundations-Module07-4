@@ -39,7 +39,7 @@ Similar to inline functions, multi-statement functions are a type of table-value
 
 You can also include multiple Select statements in multi-statement functions, hence the name!
 
-![Figure1](./docs/Screen Shot 2021-02-28 at 4.18.04 PM.png "Figure 1")  
+![Figure1](./docs/Screen%20Shot%202021-02-28%20at%204.18.04%20PM.png "Figure 1")  
 
 *Figure 1. example of multi-statement function*
 
